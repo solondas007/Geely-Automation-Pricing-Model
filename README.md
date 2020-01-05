@@ -1,5 +1,4 @@
-# solon_das
-Projects and Case Studies
+# Geely-Automation-Pricing-Model
 
 Linear Regression:-
 
